@@ -1,6 +1,6 @@
 ### Contributing to the JS Standard Library Effort
 
-This repository is not under the same legal restrictions as [ECMA-262](https://github.com/tc39/ecma262). All members are able to contribute proposals, but when merging into ECMA-262 the legal restrictions of ECMA-262 will be in place.
+This repository is not under the same legal restrictions as [ECMA-262](https://github.com/tc39/ecma262). All members are able to contribute proposals, but when merging into ECMA-262 the legal restrictions of ECMA-262 will be in place. Due to this restriction at the time of being merged into ECMA-262 all contributors must preemptively complete [the necessary legal steps](https://github.com/tc39/ecma262/blob/master/CONTRIBUTING.md#required-legal-agreements) so that will be able to contribute to ECMA-262.
 
 #### Issues and Pull Requests
 
