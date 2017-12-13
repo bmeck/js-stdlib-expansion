@@ -14,3 +14,17 @@ These templates each contain a `README.md` file containing instructions on how t
 ## Contributing
 
 See the [Contributing](./.github/CONTRIBUTING.md) document.
+
+## Mentoring
+
+One of the goals of this effort is to introduce a way for new or inexperienced members of TC39 to gain experience by working with other members willing to share the burden of a proposal by acting as a mentor.
+
+Mentors will be expected to be available for mentees as time permits for all involved parties.
+
+It is the responsibility of the mentor to keep a well defined focus for a proposal by providing actionable items that could assist in moving a proposal forward. For example, upon finding an API design that uses brand checking the mentor may mention:
+
+ * that brand checking has been controversial in the past
+ * other API designs that do not use brand checking
+ * gather relevant parties that have been discussing the topic of brand checking in the past to preview the API and talk with the mentee
+
+Mentors are generally sought at the time of seeking Stage 1 for a proposal with assistance from other effort members.
